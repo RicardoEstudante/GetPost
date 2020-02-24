@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "nome": "Ricardo",
+      "telefone": "4444-4444",
+      "username": "ricardo",
+      "email": "ricardo@pbx.com"
+    },
+    {
+      "id": 1,
+      "nome": "Zika",
+      "telefone": "1111-1111",
+      "username": "zika",
+      "email": "zika@pbx.com"
+    },
+    {
+      "id": 1,
+      "nome": "Corona",
+      "telefone": "2222-2222",
+      "username": "corona",
+      "email": "corona@pbx.com"
+    }
+]
